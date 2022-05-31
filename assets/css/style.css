@@ -70,7 +70,6 @@ section {
     padding: 60px;
 }
 
-/* HERO STYLES BEGINS */
 .hero {
     background-image: url("../images/hero-bg.jpeg");
     background-size: cover;
@@ -267,3 +266,4 @@ section {
   .contact-info a {
     color: #fce138;
   }
+  
